@@ -24,7 +24,7 @@ To view this portfolio locally, follow the steps below:
 1. Clone the repository:
 
    ```bash
-[git clone https://github.com/Mjoeman98/portfolio.git
+git clone https://github.com/Mjoeman98/portfolio.git
    ```
 
 2. Navigate into the project directory:
