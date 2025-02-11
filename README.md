@@ -1,59 +1,53 @@
-<header>
+Nkosi Abram Mjoli's Portfolio
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to my personal portfolio! This is a showcase of my work and projects, demonstrating my skills in web development, UI/UX design, and frontend technologies. My goal is to create intuitive, user-friendly, and responsive websites that cater to users' needs.
 
-# GitHub Pages
+Technologies Used
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+- *HTML5*: For creating semantic and accessible web content.
+- *CSS3*: For styling and creating responsive layouts.
+- *JavaScript*: For adding interactivity and functionality to websites.
+- *UI/UX Design*: Creating user-centric designs for seamless web experiences.
 
-</header>
+Project Overview
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+This portfolio includes:
+- A *Home* page with a brief introduction.
+- A *Skills* section to showcase my technical expertise.
+- A *Projects* section to display my work and contributions.
+- A *Contact* form to allow users to reach out for collaborations or inquiries.
 
-## Step 2: Configure your site
+Installation
 
-_You turned on GitHub Pages! :tada:_
+To view this portfolio locally, follow the steps below:
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+1. Clone the repository:
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
-
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
-
-### :keyboard: Activity: Configure your site
-
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
+   ```bash
+[git clone https://github.com/Mjoeman98/portfolio.git
    ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>
+2. Navigate into the project directory:
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+   ```bash
+   cd portfolio
+   ```
 
----
+3. Open the `index.html` file in your preferred browser to view the portfolio.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+   Alternatively, you can deploy the site using GitHub Pages or any other hosting service.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+How to Contribute
 
-</footer>
+I am always open to suggestions and improvements. Feel free to fork the repository and submit pull requests. Here are ways you can contribute:
+- Report bugs or issues.
+- Suggest new features or improvements.
+- Improve documentation.
+
+Contact
+
+If you have any questions, feel free to contact me through the following channels:
+
+- *Email*: mjolinkosi82@gmail.com
+- *LinkedIn*: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- *GitHub*: [Mjoeman98](https://github.com/Mjoeman98)
