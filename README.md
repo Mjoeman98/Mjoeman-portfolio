@@ -1,4 +1,4 @@
-Nkosi Abram Mjoli's Portfolio
+#Nkosi Abram Mjoli's Portfolio
 
 Welcome to my personal portfolio! This is a showcase of my work and projects, demonstrating my skills in web development, UI/UX design, and frontend technologies. My goal is to create intuitive, user-friendly, and responsive websites that cater to users' needs.
 
