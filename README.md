@@ -22,18 +22,17 @@ This portfolio includes:
 To view this portfolio locally, follow the steps below:
 
 1. Clone the repository:
-
    ```bash
 git clone https://github.com/Mjoeman98/portfolio.git
    ```
 
-2. Navigate into the project directory:
+3. Navigate into the project directory:
 
    ```bash
    cd portfolio
    ```
 
-3. Open the `index.html` file in your preferred browser to view the portfolio.
+4. Open the `index.html` file in your preferred browser to view the portfolio.
 
    Alternatively, you can deploy the site using GitHub Pages or any other hosting service.
 
