@@ -49,5 +49,5 @@ Contact
 If you have any questions, feel free to contact me through the following channels:
 
 - *Email*: mjolinkosi82@gmail.com
-- *LinkedIn*: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- *LinkedIn*: https://www.linkedin.com/in/nkosi-mjoli-4a0106348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - *GitHub*: [Mjoeman98](https://github.com/Mjoeman98)
