@@ -1,15 +1,15 @@
-#Nkosi Abram Mjoli's Portfolio
+Nkosi Abram Mjoli's Portfolio
 
 Welcome to my personal portfolio! This is a showcase of my work and projects, demonstrating my skills in web development, UI/UX design, and frontend technologies. My goal is to create intuitive, user-friendly, and responsive websites that cater to users' needs.
 
-##Technologies Used
+Technologies Used
 
 - *HTML5*: For creating semantic and accessible web content.
 - *CSS3*: For styling and creating responsive layouts.
 - *JavaScript*: For adding interactivity and functionality to websites.
 - *UI/UX Design*: Creating user-centric designs for seamless web experiences.
 
-##Project Overview
+Project Overview
 
 This portfolio includes:
 - A *Home* page with a brief introduction.
@@ -17,26 +17,27 @@ This portfolio includes:
 - A *Projects* section to display my work and contributions.
 - A *Contact* form to allow users to reach out for collaborations or inquiries.
 
-##Installation
+Installation
 
 To view this portfolio locally, follow the steps below:
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/Mjoeman98/portfolio.git
+[git clone https://github.com/Mjoeman98/portfolio.git
    ```
 
-3. Navigate into the project directory:
+2. Navigate into the project directory:
 
    ```bash
    cd portfolio
    ```
 
-4. Open the `index.html` file in your preferred browser to view the portfolio.
+3. Open the `index.html` file in your preferred browser to view the portfolio.
 
    Alternatively, you can deploy the site using GitHub Pages or any other hosting service.
 
-##How to Contribute
+How to Contribute
 
 I am always open to suggestions and improvements. Feel free to fork the repository and submit pull requests. Here are ways you can contribute:
 - Report bugs or issues.
