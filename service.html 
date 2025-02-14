@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Affordable and professional web design">
+	  <meta name="keywords" content="web design, affordable web design, professional web design">
+  	<meta name="author" content="Brad Traversy">
+    <title>Mjoeman Web Deisgn | Services</title>
+    <style>
+       h4 {
+           
+           font-weight: bold;
+           text-decoration: underline;
+           
+        h3 {
+            
+            
+            
+        }
+           
+       } 
+        
+    </style>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="img/favicon.png">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Mjoeman</span> Web Design</h1>
+          
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li class="current"><a href="services.html">Services</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="newsletter">
+      <div class="container">
+        <h2 style="text-align: center;">Subscribe To Our Newsletter</h2>
+        <form>
+          <input type="email" placeholder="Enter Email..." required>
+          <button type="submit" class="button_1">Subscribe</button>
+        </form>
+      </div>
+    </section>
+
+    <section id="main">
+      <div class="container">
+        <article id="main-col">
+          <h1 class="page-title">Services</h1>
+          <ul id="services">
+            <li>
+              <h3>Website Design</h3>
+              <p text-align: left:>
+<h4>Basic Website (1-5 pages):</h4>
+This package is for catering a simple, professional website.<br/> It includes:
+- 1-5 pages (e.g., Home, About, Contact, Services)<br/>
+- HTML and CSS coding
+- Basic JavaScript for interactivity (e.g., forms, buttons)<br/>
+- Responsive design for mobile compatibility<br/>
+- Minimal UX/UI design for a user-friendly experience<br/><br/> 
+
+<h4>Standard Website (5-10 pages):</h4>
+This package is suitable for medium-sized businesses or more established brands. It includes:<br/>
+- 5-10 pages with more customized layouts<br/>
+- Custom design elements (color schemes, typography, etc.)<br/>
+- Basic animations with JavaScript<br/>
+- Basic UX/UI principles for enhanced user experience<br/>
+- Integration with website builder or CMS (e.g., WordPress if needed)<br/><br/> 
+
+<h4>Custom Web Design (10+ pages, advanced functionality):</h4>  </br>
+This is the comprehensive option for businesses that need high-end, unique websites with advanced features. It includes:</br>
+- 10+ pages with fully custom designs</br>
+- Advanced JavaScript and interactivity (custom forms, animations, etc.)</br>
+- Tailored UX/UI design for optimized user experience</br>
+- CMS integration (WordPress or custom CMS as required)</br>
+- Advanced features like e-commerce, blogs, or membership areas</br>
+- SEO-friendly structure.</p>
+						  
+            </li>
+            <li>
+              <h3>Website Maintenance</h3>
+              <p>
+                  Basic Maintenance:</br> </br>  
+This plan covers essential services to keep the website running smoothly. It includes:</br>
+- Minor content updates (text and images)</br>
+- SEO fixes to improve search engine visibility</br>
+- Broken link checks to ensure the website is fully functional</br>
+- JavaScript updates to maintain current functionality</br>
+- UI/UX maintenance to ensure the website remains user-friendly</br>
+- Responsive checks across all devices to ensure compatibility</br></br>
+
+Comprehensive Maintenance:</br>
+This is an enhanced maintenance plan for clients who require ongoing improvements and optimization. It includes:</br>
+- Regular content updates to keep the website fresh and relevant</br>
+- Bug fixes to address technical issues quickly</br>
+- Website performance improvements to keep load times fast</br>
+- Periodic UI/UX checks to ensure the site meets modern design standards and usability</br>
+- Security checks and updates to ensure the website remains secure</br>
+- Advanced SEO adjustments to maintain search engine rankings</br>
+- Trend alignment to keep the site up-to-date with new trends and features</p>
+						  
+            </li>
+            <li>
+              <h3>Website Hosting</h3>
+              <p>Basic promotion services like SEO and social media integration. Over time, you can dive deeper into more advanced digital marketing services.</br>
+
+- Basic SEO:</br>
+Includes keyword research, optimizing website content, meta tag optimization, and basic link-building strategies. I would use my HTML and CSS skills to ensure that the website is well-structured for search engines.</br>
+
+- Social Media Integration & Basic Advertising (per month):  </br>
+  Setting up and linking social media accounts, adding share buttons to websites, creating small ads using HTML/JS, and integrating tracking tools.</br>
+-Includes setup and linking of 3 social media accounts, creating 5 HTML/JS ads, and providing monthly performance reports.</br></br>
+
+Package Deals (For Clients Who Want More Comprehensive Services):</br>
+- Basic Package (Website Design + Basic Maintenance + SEO):  </br>
+  A great starting offer that combines web design, maintenance, and basic SEO services.</br></br>
+
+- Advanced Package (Website Design + Advanced Maintenance + SEO + Social Media Integration):</br> 
+A complete package for clients looking for custom websites with ongoing updates and promotional efforts.
+</p>
+						  
+            </li>
+          </ul>
+        </article>
+
+        <aside id="sidebar">
+          <div class="dark">
+            <h3>Get A Quote</h3>
+            <form class="quote">
+  						<div>
+  							<label>Name</label><br>
+  							<input type="text" placeholder="Name">
+  						</div>
+  						<div>
+  							<label>Email</label><br>
+  							<input type="email" placeholder="Email Address">
+  						</div>
+  						<div>
+  							<label>Message</label><br>
+  							<textarea placeholder="Message"></textarea>
+  						</div>
+  						<button class="button_1" type="submit">Send</button>
+					</form>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <footer>
+      <p>Mjoeman Web Deisgn, Copyright &copy; 2025</p>
+    </footer>
+  </body>
+</html>
