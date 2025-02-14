@@ -23,7 +23,8 @@ This portfolio includes the following sections:
 - Contact: A form for users to reach out for collaborations, inquiries, or feedback.
 
 One of the projects featured here is a Calculator Program, which I built using HTML, CSS, and JavaScript. Below is a brief description of the calculator program:
-ChatGPT: Calculator Program
+
+#Calculator Program
 
 The calculator is a simple, interactive, and responsive tool that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It was created as a demonstration of my front-end development skills using:
 
