@@ -9,7 +9,7 @@ body{
 
 #calculator{
     font-family: arial, san-serif;
-    background-color: hsl(0, 0%, 15%);
+    background-color: hsl(0, 0%, 20%);
     border-radius: 15px;
     max-width: 600px;
     overflow: hidden;
@@ -30,7 +30,7 @@ body{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 5px;
-    padding: 25px;
+    padding: 20px;
 }
 
 button{
@@ -40,7 +40,7 @@ button{
     border: none;
     background-color: hsl(0, 0%, 30%);
     color: white;
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: bold;
     cursor: pointer;
 }
