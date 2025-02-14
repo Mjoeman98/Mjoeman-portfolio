@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: This is my portfolio 
 ---
 
 #Nkosi Abram Mjoli's Portfolio
